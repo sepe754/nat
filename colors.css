@@ -1,21 +1,21 @@
 body {
-      color: #000000
+      color: pink;
 	  }
 	  
 	  a, a:link, a:visited, a:active a:hove {
-	  color: #81c0c5;
+	  color:blue;
 	  }
 	  
 	  header {
-	  background-color: #f47e7d;
+	  background-color:green;
 	  }
 	  
 	  nav {
-	   background-color: b5d045;
+	   background-color: red;
 	   }
 	   
 	   section {
-	   background-color:#e0c7a8;
+	   background-color:yellow;
 	   }
 	   
 	   footer {
