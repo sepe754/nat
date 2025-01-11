@@ -12,6 +12,7 @@ body {
 	  
 	  nav {
 	   background-image:dinero-signo-del-dolar.jpg;
+		background-repeat:no-repeat;  
 	   }
 	   
 	   section {
