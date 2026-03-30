@@ -1,4 +1,4 @@
-.display-great {
+display-great {
     display: none;
 	}
 	
@@ -17,3 +17,59 @@
 	display: inline;
 	list-style-type: none;
 	}
+<style>
+.lista-horizontal{
+	background-color:black;padding:15px;border-radius:8px;
+}
+.lista-horizontal ul {
+	list-style:none;margin:0;padding:0;display:flex;gap:25px;justify-content:flex-start;
+}
+.lista-horizontal a{text-decoration:none;color:black;font-family:arial;font-weight:bold;
+transition:color 0.3s, transform 0.2s;display:inline-block;
+				   }
+.lista-horizontal a:hover{
+	color:pink;transform:translateY(-2px);
+}
+</style>
+<style>
+.segunda-lista{
+	background-color:black;padding:15px;border-radius:8px;
+}
+.segunda-lista ul {
+	list-style:none;margin:0;padding:0;display:flex;gap:25px;justify-content:flex-start;
+}
+.segunda-lista a{text-decoration:none;color:black;font-family:sans-serif;font-weight:bold;
+transition:color 0.3s, transform 0.2s;display:inline-block;
+				   }
+.segunda-lista a:hover{
+	color:pink;transform:translateY(-2px);
+}
+</style>
+<style>
+.tercera-lista{
+	background-color:black;padding:15px;border-radius:8px;
+}
+.tercera-lista ul {
+	list-style:none;margin:0;padding:0;display:flex;gap:25px;justify-content:flex-start;
+}
+.tercera-lista a{text-decoration:none;color:black;font-family:sans-serif;font-weight:bold;
+transition:color 0.3s, transform 0.2s;display:inline-block;
+				   }
+.tercera-lista a:hover{
+	color:pink;transform:translateY(-2px);
+}
+</style>
+<style>
+.cuarta-lista{
+	background-color:black;padding:15px;border-radius:8px;
+}
+.cuarta-lista ul {
+	list-style:none;margin:0;padding:0;display:flex;gap:25px;justify-content:flex-start;
+}
+.cuarta-lista a{text-decoration:none;color:black;font-family:sans-serif;font-weight:bold;
+transition:color 0.3s, transform 0.2s;display:inline-block;
+				   }
+.cuarta-lista a:hover{
+	color:pink;transform:translateY(-2px);
+}
+</style>
