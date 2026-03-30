@@ -1,24 +1,46 @@
 body {
-      color: black;
+      color: #000000
 	  }
 	  
 	  a, a:link, a:visited, a:active a:hove {
-	  color:blue;
+	  color: #81c0c5;
 	  }
 	  
 	  header {
-	  background-color:green;
+	  background-color: pink;
 	  }
 	  
 	  nav {
-	   background-image:dinero-signo-del-dolar.jpg;
-		 
+	   background-color: #64FFCC;
 	   }
 	   
 	   section {
-	   background-color:yellow;
+	   background-color:#FFFF99;
 	   }
 	   
 	   footer {
-	   background-color: pink;
+	   background-color: #FFE4C4;
 	   }
+	   
+	   .menu{
+		   background-color: black
+		   display:inline-flex;
+	   }
+	   
+	   .menu a{
+		   text-decoration: none;
+		   color: black;
+		   padding:0 30px;
+		   font-size:20px;
+	   }
+	   
+	   .menu a:hover{
+		   background-color: black;
+		   color: white;
+	   }
+	   h2{
+		   font-size:30px;
+	   }
+.rappi{
+	color:red;font-size:29px;
+}
