@@ -17,6 +17,25 @@ display-great {
 	display: inline;
 	list-style-type: none;
 	}
+
+
+<style>
+.prilista{
+	background-color:black;padding:15px;border-radius:15px;
+}
+.prilista ul {
+	list-style:none;margin:0;padding:0;display:flex;gap:25px;justify-content:flex-start;
+}
+.prilista a{text-decoration:none;color:black;font-family:arial;font-weight:bold;
+transition:color 0.3s, transform 0.2s;display:inline-block;
+				   }
+.prilista a:hover{
+	color:green;transform:translateY(-2px);
+}
+</style>
+
+
+
 <style>
 .nav-horizontal{
 	background-color:black;padding:15px;border-radius:8px;
