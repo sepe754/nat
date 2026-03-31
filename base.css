@@ -59,17 +59,24 @@ transition:color 0.3s, transform 0.2s;display:inline-block;
 	color:pink;transform:translateY(-2px);
 }
 </style>
+
+
+
+
+
+
+
 <style>
-.cuarta-lista{
+.carta-lista{
 	background-color:black;padding:15px;border-radius:8px;
 }
-.cuarta-lista ul {
+.curta-lista ul {
 	list-style:none;margin:0;padding:0;display:flex;gap:25px;justify-content:flex-start;
 }
-.cuarta-lista a{text-decoration:none;color:black;font-family:sans-serif;font-weight:bold;
+.carta-lista a{text-decoration:none;color:black;font-family:sans-serif;font-weight:bold;
 transition:color 0.3s, transform 0.2s;display:inline-block;
 				   }
-.cuarta-lista a:hover{
+.carta-lista a:hover{
 	color:pink;transform:translateY(-2px);
 }
 </style>
