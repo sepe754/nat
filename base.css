@@ -28,7 +28,7 @@ display-great {
 transition:color 0.3s, transform 0.2s;display:inline-block;
 				   }
 .nav-horizontal a:hover{
-	color:pink;transform:translateY(-2px);
+	color:green;transform:translateY(-2px);
 }
 </style>
 <style>
