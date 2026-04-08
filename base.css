@@ -34,6 +34,9 @@ transition:color 0.3s, transform 0.2s;display:inline-block;
 }
 </style>
 
+td{
+	padding:5px;font-style:oblique;font-size:25px;
+}
 
 .todos{
 	background-color:yellow;
