@@ -35,10 +35,18 @@ transition:color 0.3s, transform 0.2s;display:inline-block;
 </style>
 
 
-
-
-
-
+.todos{
+	background-color:yellow;
+}
+.aceites{
+	background-color:blue;
+}
+.vibradores{
+	background-color:red;
+}
+.consoladores{
+	background-color:pink;
+}
 
 <style>
 .nav-horizontal{
